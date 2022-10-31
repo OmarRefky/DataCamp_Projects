@@ -14,3 +14,4 @@ This is a list of my datacamp projects where each project focus on a certain ski
 | Risk and Returns: The Sharpe Ratio | Case Study, Applied Finance | Data Manipulation, Data Visualization, Cleaning Data |
 | The Android App Market on Google Play | Case Study, Probability & Statistics | Data Manipulation, Data Visualization, Cleaning Data |
 | The GitHub history of scala | Case Study | Data Manipulation, Data Visualization | 
+| When Was the Golden Age of Video Games | SQL | Data Manipulation |
